@@ -1,0 +1,10 @@
+c:\wamp\www\NODEJS>cd aplicacao1
+c:\wamp\www\NODEJS\aplicacao1>npm init
+
+c:\wamp\www\NODEJS\aplicacao1>npm install --save restify
+
+// para testes
+c:\wamp\www\NODEJS\aplicacao1>npm install -g mocha
+
+// para processar os testes
+c:\wamp\www\NODEJS\aplicacao1>npm install --save should
